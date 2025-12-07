@@ -30,7 +30,7 @@
 
 ## Get started in 30 seconds
 
-> You need `go` and `docker` installed.
+> You need [go](https://go.dev/doc/install) and [docker](https://docs.docker.com/engine/install/) installed.
 
 ```bash
 git clone https://github.com/furkan/dockerlings.git
